@@ -1,4 +1,4 @@
- <DOCTYPE html>
+<DOCTYPE html>
  <html>
 	<body>
 		<h1>Karan is lit</h1>
