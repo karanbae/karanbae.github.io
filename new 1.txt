@@ -6,7 +6,7 @@
 		<p> Want to buy some cheap stuff??</p>
 		<p> <a href="https://www.aliexpress.com/">This link will take you to buy some cheap stuff</a>	
 		<p> <img src="https://www.google.co.nz/search?safe=strict&biw=1517&bih=708&tbm=isch&sa=1&q=2+dollar+shop+logo&oq=2+dollar+shop+logo&gs_l=psy-ab.3...6015.7554.0.8102.5.5.0.0.0.0.">
-			<p> Also add up the Snapchat @karanpatel5
+			<p> Also add up the Snapchat @karanpatel5 <p/>
 		
 	<body>
 	</html>
