@@ -3,7 +3,7 @@
  <html>
 	<body>
 		<h1> Karan is lit</h1>
-		<p> some text...</p>
+		<p> lunchbox </p>
 		<p> ball is life </p>
 	<body>
 	</html>
