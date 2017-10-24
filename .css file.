@@ -4,6 +4,11 @@
 		<link rel="stylesheet" href="stylesheet.css">
 	</head>
 	<body>
+	p {
+	color: red;
+	text-align: center;
+}
+	
 		<h1>Welcome to the website where you will learn everything about Kenya</h1>
 	<h2> Karibu kwenye tovuti ambayo utajifunza kila kitu kuhusu Kenya</h2>
 	<p>1.Kenya is located in East Africa, on the equator.</p>
