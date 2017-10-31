@@ -4,6 +4,7 @@ body {
 
 
 p {
-	color: blue;
-background-color: lightgray;
+	color: red;
+	text-align: left;
 }
+
