@@ -6,6 +6,11 @@ text-align: left;
 background-color: lightblue;	
 }
 
+ul {
+	list-style-type: none;
+	background: lightgray;
+	
+}
 
 
 
