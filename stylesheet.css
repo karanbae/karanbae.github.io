@@ -4,7 +4,6 @@
 <head>
 <style>
 
-
 body {
 	background-image: url("http://www.karisanmedia.com/wp-content/uploads/2013/09/flag.jpg");
 color: red;
@@ -62,6 +61,11 @@ li a:hover:not(.active) {
   <p>Some text..</p>
 </div>
 
+body {
+	background-image: url("http://www.karisanmedia.com/wp-content/uploads/2013/09/flag.jpg");
+color: red;
+text-align: left;
+}
 
 	</body>
 </html>
