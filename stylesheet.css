@@ -1,10 +1,12 @@
-
+H1 {
+	color:aqua;
+}
 
 body {
 	background-image: url("http://www.karisanmedia.com/wp-content/uploads/2013/09/flag.jpg");
 	background-postion: Center Center;
 	background-size: cover;
-	color: aqua;
+	color: red;
 text-align: left;
 
 	font-family: 'Spectral SC', serif;
